@@ -9,7 +9,7 @@ namespace RozrostZiarenCA2
     class Cell
     {
         public int value = 0;
-        public double dislocationDensity = 0;
+        public double dislocationDensity = 0; 
         public bool isRecrystalised = false;
         public bool isAvailable = true;
         public bool isAvailableForMC = true;
